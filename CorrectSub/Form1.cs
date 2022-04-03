@@ -16,6 +16,7 @@ namespace CorrectSub
         {
             InitializeComponent();
             textBox1.Text = "";
+            ////
         }
 
         private void textBox1_DragOver(object sender, DragEventArgs e)
